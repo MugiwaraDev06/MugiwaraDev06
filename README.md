@@ -1,33 +1,48 @@
 # Hi there, I'm Siddarth! 👋
 
-I'm a student developer from VIT Bhopal, passionate about building practical solutions to real-world problems. Welcome to my GitHub profile!
+A student developer from VIT Bhopal with a passion for building practical solutions and exploring new technologies. I enjoy bringing ideas to life through clean, efficient code.
 
 ---
 
-### 🚀 About Me & What I'm Working On
+### 🚀 My Completed Projects
 
--   👨‍💻 I’m currently building **[FastBite](https://github.com/monkeyDluffy06/FastBite-)**, a smart canteen ordering system designed to reduce wait times at my college.
--   🌱 I’m learning the fundamentals of web development, including **HTML, CSS, and JavaScript**, and using Git/GitHub for version control.
--   🤝 I’m looking to collaborate on interesting web projects and learn from other developers.
--   📫 How to reach me: **siddarthbhardwaj612@gmail.com** or connect with me on **[LinkedIn](www.linkedin.com/in/siddarth-bharadwaj-9b7099324)**.
+I've recently completed two key projects that showcase my skills in both web and software development:
 
-### 🛠️ Tech & Tools I'm Using
--   **Core Languages:** Python, Java, C, C++
--   **Frontend:** HTML5, Tailwind CSS, JavaScript
--   **Version Control:** Git & GitHub
--   **Environment:** Linux
+* **[FastBite - Smart Canteen Ordering System](https://github.com/MugiwaraDev06/FastBite_VIT)**
+    * A full-stack web application designed to streamline canteen orders and reduce wait times on campus.
+    * **Tech:** `React`, `Tailwind CSS`, `Node.js`, `Express.js`, `MongoDB`
 
-<!--
-**monkeyDluffy06/monkeyDluffy06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **[Campus Course Registration System](https://github.com/MugiwaraDev06/Campus-Course-Records-Manager-CCRM)**
+    * A console-based application built with Java SE to manage student course enrollments.
+    * **Tech:** `Java SE`, `Object-Oriented Programming (OOP)`
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack
+
+* **Frontend:** `HTML5`, `CSS3`, `JavaScript (ES6+)`, `React`, `Tailwind CSS`
+* **Core Languages:** `Java`, `Python`, `JavaScript`, `C++`, `C`
+* **Tools & Platforms:** `Git`, `GitHub`, `VS Code`, `Linux`
+
+---
+
+### 🌱 What I'm Learning Next
+
+I'm always eager to expand my skill set. My focus for the near future includes:
+-   Containerization with **Docker** to understand modern deployment workflows.
+-   Diving into the fundamentals of **Machine Learning** with Python.
+
+---
+
+### 📫 Let's Connect!
+
+I'm open to collaborations and new opportunities. Feel free to connect with me!
+
+-   **Email:** siddarthbhardwaj612@gmail.com
+-   **LinkedIn:** [linkedin.com/in/siddarth-bharadwaj-9b7099324](https://www.linkedin.com/in/siddarth-bharadwaj-9b7099324)
+
+---
+
+### 📊 My GitHub Stats
+
+[![Siddarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MugiwaraDev&show_icons=true&theme=radical&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
