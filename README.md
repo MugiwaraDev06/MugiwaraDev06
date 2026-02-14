@@ -43,10 +43,4 @@ I'm open to collaborations and new opportunities. Feel free to connect with me!
 
 ---
 
-### 📊 My GitHub Stats
 
-[![Siddarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MugiwaraDev06&show_icons=true&theme=radical&rank_icon=github&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MugiwaraDev06&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MugiwaraDev06&theme=radical&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
